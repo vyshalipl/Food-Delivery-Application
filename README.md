@@ -58,7 +58,7 @@ food-delivery-devops/
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/food-delivery-devops.git
+git clone https://github.com/vyshalipl/food-delivery-devops.git
 
 ### 2. Navigate to project
 

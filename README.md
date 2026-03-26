@@ -126,7 +126,7 @@ This project follows CI/CD principles:
 
 ## 👩‍💻 Author
 
-Vyshali (Vyshu)
+Vyshali 
 
 ---
 

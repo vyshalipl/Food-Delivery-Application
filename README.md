@@ -102,11 +102,6 @@ This project follows CI/CD principles:
 * Continuous Delivery for deployment
 * Automated pipeline (conceptual implementation)
 
----
-
-## 📸 Project Preview
-
-(Add screenshots of your application, Docker containers, or Grafana dashboard here)
 
 ---
 
